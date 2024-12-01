@@ -6,7 +6,7 @@ Use GitHub's search bar with hashtags like `#AppIcon`, `#Firebase`, or `#StateMa
 
 ---
 
-Check out the [Snippets Archive](flutter_fuel.md). It's packed with all the Flutter gems you'll need! 🚀
+Check out the [Snippets Archive](flutter-fuel.md). It's packed with all the Flutter gems you'll need! 🚀
 
 ---
 
